@@ -3,6 +3,5 @@
   "uuid": "01a1d471-a65f-7133-a34f-8e41961ea03a",
   "key": "text_var",
   "type": "String",
-  "value": "",
-  "isEnvironmentVariable": true
+  "value": "Andreea"
 }
