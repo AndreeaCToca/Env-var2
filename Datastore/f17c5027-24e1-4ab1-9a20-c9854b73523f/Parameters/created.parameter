@@ -3,5 +3,6 @@
   "uuid": "08df4171-d095-4915-898a-59e6d5351c48",
   "key": "created",
   "type": "String",
-  "value": "hello"
+  "value": "",
+  "isEnvironmentVariable": true
 }
