@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "ac155dc7-6b7c-435e-8d86-26ab7d89adad",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "ac155dc7-6b7c-435e-8d86-26ab7d89adad",
+    "accent": "#7d3579",
+    "route": "environment-variables-testing",
+    "description": "Environment Variables testing user story",
+    "cmsEnabled": false,
+    "versioning": true,
+    "workspaceId": "ac155dc7-6b7c-435e-8d86-26ab7d89adad",
+    "resourceId": "ac155dc7-6b7c-435e-8d86-26ab7d89adad",
+    "name": "Environment Variables testing"
+  }
+}
