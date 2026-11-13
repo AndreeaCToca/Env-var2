@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "id": "e6e22928-7e76-4547-89d7-778535a19e36",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "292b9e60-aef1-4d2e-9d59-81ae4a9be79e",
+    "description": "test",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Set Datastore Variable",
+        "type": "SetDatastoreVariable",
+        "version": "3.1.0",
+        "originId": "f19320a2-0039-5772-816b-7f6571158718",
+        "actionId": "e9185662-40ce-4823-8290-d10b0ac3ff52",
+        "actionDefinitionActionId": "a124a517-892a-437a-885a-f7610b5f44e1",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "dataStoreId",
+            "type": "String",
+            "value": "\u0022f17c5027-24e1-4ab1-9a20-c9854b73523f\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022String\u0022"
+          },
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022created\u0022"
+          },
+          {
+            "key": "data",
+            "type": "String",
+            "value": "\u0022hello\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None"
+      },
+      {
+        "name": "Set Datastore Variable",
+        "type": "SetDatastoreVariable",
+        "version": "3.1.0",
+        "originId": "f19320a2-0039-5772-816b-7f6571158718",
+        "actionId": "d5cdb097-a7f5-41ae-8a37-0a910d2ead62",
+        "actionDefinitionActionId": "a124a517-892a-437a-885a-f7610b5f44e1",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "dataStoreId",
+            "type": "String",
+            "value": "\u0022f17c5027-24e1-4ab1-9a20-c9854b73523f\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022Number\u0022"
+          },
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022numberCreated\u0022"
+          },
+          {
+            "key": "data",
+            "type": "Number",
+            "value": "4"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None"
+      },
+      {
+        "name": "Set Datastore Variable",
+        "type": "SetDatastoreVariable",
+        "version": "3.1.0",
+        "originId": "f19320a2-0039-5772-816b-7f6571158718",
+        "actionId": "f6a97053-55cd-41df-9b2d-82119727a436",
+        "actionDefinitionActionId": "a124a517-892a-437a-885a-f7610b5f44e1",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "dataStoreId",
+            "type": "String",
+            "value": "\u0022f17c5027-24e1-4ab1-9a20-c9854b73523f\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022Boolean\u0022"
+          },
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022booleanCreated\u0022"
+          },
+          {
+            "key": "data",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None"
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "workspaceId": "ac155dc7-6b7c-435e-8d86-26ab7d89adad",
+    "resourceId": "e6e22928-7e76-4547-89d7-778535a19e36",
+    "name": "create var"
+  }
+}
