@@ -3,5 +3,6 @@
   "uuid": "6e27c27a-42b2-438b-8f91-03880af8416c",
   "key": "number_var2_Copy",
   "type": "Number",
-  "value": "-3"
+  "value": "",
+  "isEnvironmentVariable": true
 }
