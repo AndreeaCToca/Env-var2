@@ -3,6 +3,5 @@
   "uuid": "46ddd912-09b0-4040-83ca-fdd6b3304b82",
   "key": "number_var1_Copy",
   "type": "Number",
-  "value": "",
-  "isEnvironmentVariable": true
+  "value": "0"
 }
