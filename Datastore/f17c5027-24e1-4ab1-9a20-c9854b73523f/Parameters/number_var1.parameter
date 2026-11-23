@@ -3,6 +3,5 @@
   "uuid": "01a1d473-d277-7335-94d6-30faed0896b4",
   "key": "number_var1",
   "type": "Number",
-  "value": "",
-  "isEnvironmentVariable": true
+  "value": "4"
 }
