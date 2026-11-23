@@ -3,6 +3,5 @@
   "uuid": "01a1d477-d2e3-753a-8fec-e9b329d0d2bf",
   "key": "boolean_var2",
   "type": "Boolean",
-  "value": "",
-  "isEnvironmentVariable": true
+  "value": "false"
 }
